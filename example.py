@@ -4,6 +4,7 @@ def subtract(x,y):
     """
     Subtracts y from x
     """
+    return x-y
 
 def some_function(x, y):
     """
